@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <a href="iobaidu5.netlify.app"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+ <a href = "https://www.iobaidu5.netlify.app" target="_blank"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Obaid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
@@ -69,10 +69,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "iobaidu5.netlify.app"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-<a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.iobaidu5.netlify.app" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<a href = "https://www.linkedin.com/in/iobaidu5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iobaidu5" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/iobaidu5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
