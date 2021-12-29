@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://iobaidu5.netlify.app)**
 
-- 📫 How to reach me **iobaidu5.netlify.app**
+- 📫 How to reach me **i.obaidu5@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I Love to Code and Play Table Tennis**
 
 ## 🚀 Languages and Tools:
 
