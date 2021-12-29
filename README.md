@@ -4,17 +4,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Obaid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
-
-
-- 🔭 I’m currently working as **Front-End Developer**
-
-- 🌱 I’m currently learning **Blockchain / Web 3.0**
-
-- 👨‍💻 Portfolio **[My Portfolio](https://iobaidu5.netlify.app/)**
-
-- 📫 How to reach me **i.obaidu5@gmail.com**
-
-
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" />
     </a>
@@ -56,34 +45,28 @@
 
 <p align="center">
     <a href="https://github.com/iobaidu5/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Obaid-Khan streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=iobaidu5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Obaid-Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iobaidu5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 
 <div align="center">
     <a href="https://github.com/iobaidu5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=react&include_all_commits=true&count_private=truet&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
 <br />
 
-<a href="https://github.com/iobaidu5/github-readme-activity-graph"><img alt="Obaid Khan Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=iobaidu5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iobaidu5/github-readme-activity-graph"><img alt="Obaid Khan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iobaidu5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
 <p align="center">
 
-    <a href="https://iobaidu5.netlify.app/" target="_blank"><img
-            src="https://img.icons8.com/fluency/48/000000/domain.png" /></a>
-    <a href="https://www.linkedin.com/in/iobaidu5/" target="_blank"><img
-            src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-    <a href="https://twitter.com/iobaidu5" target="_blank"><img
-            src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-    <a href="https://www.instagram.com/iobaidu5/" target="_blank"><img
-            src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+    <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" /></a>
+    <a href="https://www.linkedin.com/in/iobaidu5/" target="_blank"><img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+    <a href="https://twitter.com/iobaidu5" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+    <a href="https://www.instagram.com/iobaidu5/" target="_blank"><img  src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 
 </p>
 
