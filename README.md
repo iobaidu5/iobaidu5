@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **iobaidu5/iobaidu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -72,7 +71,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "iobaidu5.netlify.app"><img src="<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/>"/></a>
+<a href = "iobaidu5.netlify.app"><img src=<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
