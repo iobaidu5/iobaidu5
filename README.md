@@ -51,8 +51,8 @@
 
 <div align="center">
     <a href="https://github.com/iobaidu5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=7&theme=react"/>
   </div>
 
 <br />
@@ -61,12 +61,16 @@
 
 <br />
 
-<p align="center">
 
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
     <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" /></a>
-    <a href="https://www.linkedin.com/in/iobaidu5/" target="_blank"><img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-    <a href="https://twitter.com/iobaidu5" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-    <a href="https://www.instagram.com/iobaidu5/" target="_blank"><img  src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+<a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/iobaidu5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
