@@ -5,13 +5,14 @@
 <img align="right" height="150" style="border-radius:50px;"
         src="https://i.imgur.com/iXuL1HG.png" />
 </div><br>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a Full Stack Developer & Data Analyst</h3>
 <p align="center">
     <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
 <a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 <a href = "mailto:i.obaidu5@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail-new.png" alt="i.obaidu5@gmail.com"/></a>
 </p>
+<br />
 <br />
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" />
@@ -67,4 +68,4 @@
 
 <br/>
 
-![snake gif](https://github.com/iobaidu5/iobaidu5/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
