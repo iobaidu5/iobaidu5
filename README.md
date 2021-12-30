@@ -1,9 +1,10 @@
+<a href="https://iobaidu5.netlify.app/" target="_blank"></a>
 <div style="display: inline"><br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Obaid</h1>
 <img align="right" height="150" style="border-radius:50px;"
         src="https://i.imgur.com/iXuL1HG.png" />
-</div>
+</div><br>
 <h3 align="center">I'm a Full Stack Developer</h3>
 <p align="center">
     <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
@@ -63,6 +64,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iobaidu5&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobaidu5&layout=compact&langs_count=8&theme=react"/>
   </div>
-<br />
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
