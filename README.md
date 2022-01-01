@@ -1,4 +1,3 @@
-<a href="https://iobaidu5.netlify.app/" target="_blank"></a>
 <div style="display: inline"><br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Obaid</h1>
