@@ -6,7 +6,7 @@
 </div><br>
 <h3 align="center">I'm a Full Stack Developer</h3>
 <p align="center">
-    <a href="https://iobaidu5.netlify.app/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
+    <a href="https://obaidk.dev/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-cloud-computing-user-profile-for-job-portfolio-website-classic-color-tal-revivo.png"/></a>
 <a href = "https://www.linkedin.com/in/iobaidu5/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iobaidu5"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 <a href = "mailto:i.obaidu5@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail-new.png" alt="i.obaidu5@gmail.com"/></a>
